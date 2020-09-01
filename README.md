@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**trabdlkarim/trabdlkarim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**trabdlkarim/trabdlkarim** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
