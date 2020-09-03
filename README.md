@@ -1,4 +1,4 @@
-# Hi there 👋!!!
+# Hi there 👋!!! ![GitHub Profile](https://img.shields.io/badge/github-profile-yellowgreen)
 
 
 I'm **Toure A. Karim (@trabdlkarim)**, a ✨ computer engineer ✨ living in Turkey.
