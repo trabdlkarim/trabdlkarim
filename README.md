@@ -1,7 +1,7 @@
-### Hi there 👋
+# Hi there 👋
 
 
-**trabdlkarim/trabdlkarim** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
+I'm **Toure A. Karim (@trabdlkarim)**, a ✨ computer engineer ✨ living in Turkey.
 
 Here are some ideas to get you started:
 
