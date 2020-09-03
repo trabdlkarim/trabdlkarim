@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: **he/him**
 - ⚡ Interests: **love coding, reading, learning, series, chess and soccer**
 
-# Stats
