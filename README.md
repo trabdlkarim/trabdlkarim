@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about **anything**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/trabdlkarim/), [Twitter](https://twitter.com/trabdlkarim)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Interests: love coding,reading, learning, series, chess and soccer
 
