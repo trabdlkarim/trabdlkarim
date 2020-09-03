@@ -1,4 +1,4 @@
-# Hi there 👋!!! ![GitHub Profile](https://img.shields.io/badge/github-profile-green) ![Give a star](https://img.shields.io/badge/give%20a%20star-if%20useful-blueviolet) ![Forks](https://img.shields.io/github/forks/trabdlkarim/trabdlkarim) ![Stars](https://img.shields.io/github/stars/trabdlkarim/trabdlkarim?color=red&style=plastic)
+# Hi there 👋!!! ![GitHub Profile](https://img.shields.io/badge/github-profile-yellowgreen) ![Give a star](https://img.shields.io/badge/give%20a%20star-if%20useful-blueviolet) ![Forks](https://img.shields.io/github/forks/trabdlkarim/trabdlkarim) ![Stars](https://img.shields.io/github/stars/trabdlkarim/trabdlkarim?color=red&style=plastic)
 
 
 I'm **Toure A. Karim (@trabdlkarim)**, a ✨ computer engineer ✨ living in Turkey.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: **he/him**
 - ⚡ Interests: **love coding, reading, learning, series, chess and soccer**
 
+# Stats
