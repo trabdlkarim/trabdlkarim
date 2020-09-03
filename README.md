@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 👋!!!
 
 
 I'm **Toure A. Karim (@trabdlkarim)**, a ✨ computer engineer ✨ living in Turkey.
@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about **anything**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/trabdlkarim/), [Twitter](https://twitter.com/trabdlkarim), [Email me](mailto:trabdlkarim@gmail.com)
 - 😄 Pronouns: **he/him**
-- ⚡ Interests: **love coding,reading, learning, series, chess and soccer**
+- ⚡ Interests: **love coding, reading, learning, series, chess and soccer**
 
