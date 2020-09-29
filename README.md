@@ -5,8 +5,8 @@ I'm **Toure A. Karim (@trabdlkarim)**, a ✨ *computer engineer* ✨ living in T
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **COVID-19 Virus Spread Data Analysis**
-- 🌱 I’m currently learning **Flask**
+- 🔭 I’m currently working on **Voice Controlled Chromium based Web Browser**
+- 🌱 I’m currently learning **Keras machine learning**
 - 👯 I’m looking to collaborate on **any challenging project**
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about **anything**
