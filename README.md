@@ -1,9 +1,15 @@
-<p align="center"> <img alt="Toure A. Karim" src="https://raw.githubusercontent.com/trabdlkarim/trabdlkarim/master/assets/welcome.gif"/> 
+<p align="center"> <img alt="Welcome" src="https://raw.githubusercontent.com/trabdlkarim/trabdlkarim/master/assets/welcome.gif"/> 
 </p>
 <hr/>
+<h2>
+ <a href="https://trabdlkarim.com" target="_blank">
+   <strong>TOURE A. KARIM</strong>
+ </a>
+ says hi 
+ <img alt="Hello" width="30px" src="https://raw.githubusercontent.com/trabdlkarim/trabdlkarim/master/assets/hi.gif"/> 
+ to you!
+</h2>
 
- # [TOURE Abdoul Karim](https://trabdlkarim.com) 👋 
- 
  ## ![GitHub Profile](https://img.shields.io/badge/github-profile-yellowgreen) ![Give a star](https://img.shields.io/badge/give%20a%20star-if%20useful-blueviolet) ![Forks](https://img.shields.io/github/forks/trabdlkarim/trabdlkarim) ![Stars](https://img.shields.io/github/stars/trabdlkarim/trabdlkarim?color=red&style=plastic)
 
 
