@@ -11,7 +11,7 @@
 
 :sweat_drops: Here below :point_down: are some information and links about me to get you started: :sweat_drops:
 
-- 🔭 I currently working on a **Voice Controlled Browser ** project
+- 🔭 I currently working on a **Voice Controlled Browser** project
 - 🌱 I’m currently learning **Keras** machine learning tool
 - 👯 I’m looking to collaborate on **any challenging project**
 - 🤔 I’m looking for help with **Polymer.js**
