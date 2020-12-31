@@ -24,7 +24,7 @@
 
 # 📫 How to reach me?
 
-I would be pleased to connect with you via one the following social means:
+I would be pleased to connect with you via one of the following social means:
 
 [<img height="30" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][Twitter]
 [<img height="30" src="https://img.shields.io/badge/Hashnode-%230077B5.svg?&style=for-the-badge&logo=Hashnode&logoColor=white"/>][Hashnode]
