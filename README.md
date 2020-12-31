@@ -19,7 +19,7 @@
 - 🤔 I’m looking for help with **Polymer.js**
 - 💬 Ask me about **anything**
 - 😄 Pronouns: **he/him**
-- ⚡ Interests: **love coding, reading, learning, series, chess and soccer**
+- ⚡ Interests: **love coding, reading, learning, blogging, series, chess and soccer**
 
 
 # 📫 How to reach me?
