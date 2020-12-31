@@ -1,19 +1,15 @@
 <p align="center"> <img alt="Welcome" src="https://raw.githubusercontent.com/trabdlkarim/trabdlkarim/master/assets/welcome.gif"/> 
 </p>
 <hr/>
-<h1>
- <a href="https://trabdlkarim.com" target="_blank">
-   <strong>TOURE A. KARIM</strong>
- </a>
- says 
+<h1> Hello
  <img alt="Hello" width="30px" src="https://raw.githubusercontent.com/trabdlkarim/trabdlkarim/master/assets/hi.gif"/> 
- to you!
+ there, fellow geek!
 </h1>
 
  ## ![GitHub Profile](https://img.shields.io/badge/github-profile-yellowgreen) ![Give a star](https://img.shields.io/badge/give%20a%20star-if%20useful-blueviolet) ![Forks](https://img.shields.io/github/forks/trabdlkarim/trabdlkarim) ![Stars](https://img.shields.io/github/stars/trabdlkarim/trabdlkarim?color=red&style=plastic)
 
 
-:mega::mega::mega: I'm **Toure A. Karim**, a ✨ ***computer engineer*** ✨ living in Turkey. :mega::mega::mega:
+:mega::mega::mega: I'm **Toure A. Karim**, a ✨ ***computer engineer*** ✨, tech enthusiast and occasional blogger living in Turkey. :mega::mega::mega:
 
 :sweat_drops: Here below :point_down: are some information and links about me to get you started: :sweat_drops:
 
