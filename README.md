@@ -2,12 +2,12 @@
 </a>
 <hr/>
 
-# Hello there 👋!!! ![GitHub Profile](https://img.shields.io/badge/github-profile-yellowgreen) ![Give a star](https://img.shields.io/badge/give%20a%20star-if%20useful-blueviolet) ![Forks](https://img.shields.io/github/forks/trabdlkarim/trabdlkarim) ![Stars](https://img.shields.io/github/stars/trabdlkarim/trabdlkarim?color=red&style=plastic)
+# Hello there 👋 :exclamation::exclamation::exclamation: ![GitHub Profile](https://img.shields.io/badge/github-profile-yellowgreen) ![Give a star](https://img.shields.io/badge/give%20a%20star-if%20useful-blueviolet) ![Forks](https://img.shields.io/github/forks/trabdlkarim/trabdlkarim) ![Stars](https://img.shields.io/github/stars/trabdlkarim/trabdlkarim?color=red&style=plastic)
 
 
-I'm **Toure A. Karim (@trabdlkarim)**, a ✨ *computer engineer* ✨ living in Turkey.
+:mega::mega::mega: I'm **Toure A. Karim (@trabdlkarim)**, a ✨ *computer engineer* ✨ living in Turkey.
 
-Here are some ideas to get you started:
+:sweat_drops: Here below :point_down: are some information and links about me to get you started: :sweat_drops:
 
 - 🔭 I currently work at **private orders**
 - 🌱 I’m currently learning **Keras machine learning**
