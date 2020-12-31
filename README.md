@@ -1,5 +1,5 @@
 
-<a href="https://github.com/trabdlkarim?tab=repositories" style="text-align:center;display:block;padding:15px;width:100%"> <img alt="Toure A. Karim" src="https://raw.githubusercontent.com/trabdlkarim/trabdlkarim/master/assets/name.png"/> 
+<a href="https://github.com/trabdlkarim?tab=repositories" style="text-align:center;display:block;padding:15px;width:100%"> <img alt="Toure A. Karim" src="https://raw.githubusercontent.com/trabdlkarim/trabdlkarim/master/assets/welcome.gif"/> 
 </a>
 <hr/>
 
