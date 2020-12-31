@@ -11,12 +11,12 @@
 
 :sweat_drops: Here below :point_down: are some information and links about me to get you started: :sweat_drops:
 
-- 🔭 I currently work at **private orders**
-- 🌱 I’m currently learning **Keras machine learning**
+- 🔭 I currently working on a **Voice Controlled Browser ** project
+- 🌱 I’m currently learning **Keras** machine learning tool
 - 👯 I’m looking to collaborate on **any challenging project**
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with **Polymer.js**
 - 💬 Ask me about **anything**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/trabdlkarim/), [Twitter](https://twitter.com/trabdlkarim), [Telegram](https://t.me/trabdlkarim), [Send an email](mailto:trabdlkarim@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/trabdlkarim/), [Twitter](https://twitter.com/trabdlkarim), [Telegram](https://t.me/trabdlkarim), [E-mail](mailto:trabdlkarim@gmail.com)
 - 😄 Pronouns: **he/him**
 - ⚡ Interests: **love coding, reading, learning, series, chess and soccer**
 
