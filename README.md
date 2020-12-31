@@ -6,7 +6,7 @@
  there, fellow geeks!
 </h1>
 
- ## ![GitHub Profile](https://img.shields.io/badge/github-profile-yellowgreen) ![Give a star](https://img.shields.io/badge/give%20a%20star-if%20useful-blueviolet) ![Forks](https://img.shields.io/github/forks/trabdlkarim/trabdlkarim) ![Stars](https://img.shields.io/github/stars/trabdlkarim/trabdlkarim?color=red&style=plastic)
+ ## ![GitHub Profile](https://img.shields.io/badge/github-profile-yellowgreen) ![Give a star](https://img.shields.io/badge/give%20a%20star-if%20useful-blueviolet) ![Forks](https://img.shields.io/github/forks/trabdlkarim/trabdlkarim) ![Stars](https://img.shields.io/github/stars/trabdlkarim/trabdlkarim?color=red&style=plastic) ![Profile views](https://counter.gofiber.io/badge/trablkarim/trabdlkarim)
 
 
 :mega::mega::mega: I'm **Toure A. Karim**, a ✨ ***computer engineer*** ✨ and tech enthusiast living in Turkey. :mega::mega::mega:
