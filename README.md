@@ -7,7 +7,7 @@
  </a>
  says 
  <img alt="Hello" width="30px" src="https://raw.githubusercontent.com/trabdlkarim/trabdlkarim/master/assets/hi.gif"/> 
- to you !!!
+ to you!
 </h1>
 
  ## ![GitHub Profile](https://img.shields.io/badge/github-profile-yellowgreen) ![Give a star](https://img.shields.io/badge/give%20a%20star-if%20useful-blueviolet) ![Forks](https://img.shields.io/github/forks/trabdlkarim/trabdlkarim) ![Stars](https://img.shields.io/github/stars/trabdlkarim/trabdlkarim?color=red&style=plastic)
@@ -27,13 +27,14 @@
 
 
 # 📫 How to reach me?
- 
+
+I would be pleased to connect with you via one the following social means:
+
 [<img height="30" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][Twitter]
 [<img height="30" src="https://img.shields.io/badge/Hashnode-%230077B5.svg?&style=for-the-badge&logo=Hashnode&logoColor=white"/>][Hashnode]
 [<img height="30" src = "https://img.shields.io/badge/Mail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"/>][Mail]
 [<img height="30" src="https://img.shields.io/badge/Linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="30" src="https://img.shields.io/badge/Medium-000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />][Medium]
-[<img height="30" src = "https://img.shields.io/badge/Dev-0000000.svg?&style=for-the-badge&logo=dev&logoColor=white">][Dev]
 [<img height="30" src="https://img.shields.io/badge/Telegram-%231DA1F2.svg?&style=for-the-badge&logo=telegram&logoColor=white" />][Telegram]
 
 [Twitter]: https://twitter.com/trabdlkarim
@@ -42,4 +43,4 @@
 [Mail]: mailto:contact@trabdlkarim.com
 [Linkedin]: https://www.linkedin.com/in/trabdlkarim/
 [Medium]: https://medium.com/@trabdlkarim
-[Dev]: https://www.dev.to/trabdlkarim
+[Dev]: https://dev.to/trabdlkarim
