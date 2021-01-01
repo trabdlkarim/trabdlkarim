@@ -9,7 +9,7 @@
  ## ![GitHub Profile](https://img.shields.io/badge/github-profile-yellowgreen) ![Give a star](https://img.shields.io/badge/give%20a%20star-if%20useful-blueviolet) ![Forks](https://img.shields.io/github/forks/trabdlkarim/trabdlkarim) ![Stars](https://img.shields.io/github/stars/trabdlkarim/trabdlkarim?color=red&style=plastic) ![Profile views](https://counter.gofiber.io/badge/trablkarim/trabdlkarim?unique=true)
 
 
-:mega::mega::mega: My name is [**TOURE Abdoul Karim**](https://github.com/trabdlkarim?tab=repositories), I am a ✨***computer engineer***✨ and :sparkles:***tech enthusiast***:sparkles: living in Turkey. :mega::mega::mega:
+:mega::mega::mega: My name is [**TOURE Abdoul Karim**](https://github.com/trabdlkarim?tab=repositories), I am a ✨***computer engineer***✨ and :sparkles:***tech enthusiast***:sparkles: living in Turkey.
 
 :sweat_drops: Here below :point_down: are some information and links about me to get you started: :sweat_drops:
 
