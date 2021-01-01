@@ -19,11 +19,11 @@
 - 🤔 I’m looking for help with **Polymer.js**
 - 💬 Ask me about **anything**
 - 😄 Pronouns: **he/him**
+- 📫 How to reach me: **<contact@trabdlkarim.com>**
 - ⚡ Interests: **love coding, reading, learning, blogging, series, chess and soccer**
 
 
-# 📫 How to reach me?
-
+# Social Profiles
 I would be pleased to connect with you via one of the following social means:
 
 [<img height="30" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][Twitter]
