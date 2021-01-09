@@ -36,7 +36,7 @@
 
 [Twitter]: https://twitter.com/trabdlkarim
 [Telegram]: https://t.me/trabdlkarim
-[Hashnode]: https://trabdlkarim.com
+[Hashnode]: https://blog.trabdlkarim.com
 [Mail]: mailto:contact@trabdlkarim.com
 [Linkedin]: https://www.linkedin.com/in/trabdlkarim/
 [Medium]: https://medium.com/@trabdlkarim
