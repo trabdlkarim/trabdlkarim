@@ -9,14 +9,14 @@
  ## ![GitHub Profile](https://img.shields.io/badge/github-profile-yellowgreen) ![Give a star](https://img.shields.io/badge/give%20a%20star-if%20useful-blueviolet) ![Forks](https://img.shields.io/github/forks/trabdlkarim/trabdlkarim) ![Stars](https://img.shields.io/github/stars/trabdlkarim/trabdlkarim?color=red&style=plastic)
 
 
-:mega::mega::mega: My name is [**Toure Abdoul Karim**](https://trabdlkarim.com), I am a ✨***computer engineer***✨ and :sparkles:***tech enthusiast***:sparkles: living in Turkey.
+:mega::mega::mega: My name is [**TOOURE A. KARIM**](https://trabdlkarim.com), I am a ✨***computer engineer***✨ and :sparkles:***tech enthusiast***:sparkles: living in Turkey.
 
 :sweat_drops: Here below :point_down: are some information and links about me to get you started: :sweat_drops:
 
-- 🔭 I currently working on a **Voice Controlled Browser** project
-- 🌱 I’m currently learning **Keras** machine learning tool
+- 🔭 I currently working on a **Laravel 8** project
+- 🌱 I’m currently learning **Alpine.js, Livewire & Inertia stacks** 
 - 👯 I’m looking to collaborate on **any challenging project**
-- 🤔 I’m looking for help with **Polymer.js**
+- 🤔 I’m looking for help with **Websocket**
 - 💬 Ask me about **anything**
 - 😄 Pronouns: **he/him**
 - 📫 How to reach me: **<contact@trabdlkarim.com>**
