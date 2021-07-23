@@ -1,6 +1,8 @@
 <p align="center"> <img alt="Welcome" src="https://raw.githubusercontent.com/trabdlkarim/trabdlkarim/master/assets/welcome.gif"/> 
 </p>
 
+<hr/>
+
  ## ![GitHub Profile](https://img.shields.io/badge/github-profile-yellowgreen) ![Give a star](https://img.shields.io/badge/give%20a%20star-if%20useful-blueviolet) ![Forks](https://img.shields.io/github/forks/trabdlkarim/trabdlkarim) ![Stars](https://img.shields.io/github/stars/trabdlkarim/trabdlkarim?color=red&style=plastic)
 
 
