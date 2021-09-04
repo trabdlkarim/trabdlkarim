@@ -1,4 +1,4 @@
-<p align="center"> <img alt="Welcome" src="https://raw.githubusercontent.com/trabdlkarim/trabdlkarim/master/assets/welcome.gif"/> 
+<p align="center"> <img alt="Welcome" src="https://raw.githubusercontent.com/trabdlkarim/trabdlkarim/master/assets/gifs/banner.gif"/> 
 </p>
 
 <hr/>
