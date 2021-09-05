@@ -6,7 +6,7 @@ import random
 import json
 
 ROOTDIR = pathlib.Path(__file__).parent.resolve()
-FONT = ImageFont.truetype(str(ROOTDIR / "assets/DoHyeon-Regular.ttf"), 18)
+FONT = ImageFont.truetype(str(ROOTDIR / "assets/Hack-Bold.ttf"), 24)
 
 FRAMES = []
 
@@ -19,12 +19,12 @@ def get_inspirational_quote():
 def create_textual_image(xy, text):
     img = Image.new('RGB', (840, 60), "white")
     draw = ImageDraw.Draw(img)
-    draw.text(xy, text, font = FONT, fill="black", align='center')
+    draw.text(xy, text, font = FONT, fill="black", align='center', anchor="lm")
     return img
  
 def roll(text):
     for i in range(len(text)+1):
-        new_frame = create_textual_image((10, 25), text[:i])
+        new_frame = create_textual_image((10, 30), text[:i])
         FRAMES.append(new_frame)
 
 
@@ -32,7 +32,7 @@ def main():
     quote = get_inspirational_quote()
     print(quote['text'])
     print(quote['author'])
-    step = 72 
+    step = 54 
     lines =  [quote['text'][i:i+ step ] for i in range(0, len(quote['text']), step)]
     for line in lines:
         roll(line)
