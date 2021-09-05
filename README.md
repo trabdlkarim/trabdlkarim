@@ -12,10 +12,11 @@
 More on 👉🏼 <a href="https://www.trabdlkarim.com/" target="_blank">trabdlkarim.com</a>
 <hr/>
 
-# Hello there <img src="https://raw.githubusercontent.com/trabdlkarim/trabdlkarim/master/assets/gifs/hi.gif" height="35" />
-:mega::mega::mega: My name is [**TOURE A. KARIM**](https://trabdlkarim.com), I am a ✨***computer engineer***✨ and :sparkles:***tech enthusiast***:sparkles: living in Turkey.
+# Hi <img src="https://raw.githubusercontent.com/trabdlkarim/trabdlkarim/master/assets/gifs/hi.gif" height="30" /> stranger, welcome to my profile!
 
-:sweat_drops: Here below :point_down: are some information and links about me to get you started: :sweat_drops:
+Let's drop the formalities, just call me [Abdoul] Karim. I'm a ✨computer engineer✨ and :sparkles:technology enthusiast:sparkles: from 🇨🇮 **Côte d’Ivoire**, currently living in 🇹🇷 **Turkey**.
+
+:sweat_drops: Here below :point_down: are some quick facts about me to get you started: :sweat_drops:
 
 - 🔭 I currently working on a **Laravel 8** project
 - 🌱 I’m currently learning **Alpine.js, Livewire & Inertia stacks** 
