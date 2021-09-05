@@ -14,6 +14,7 @@
 More on 👉🏼 <a href="https://www.trabdlkarim.com/" target="_blank">trabdlkarim.com</a>
 <hr/>
 
+# Hello there ![:wave:](https://raw.githubusercontent.com/trabdlkarim/trabdlkarim/master/assets/gifs/hi.gif)
 :mega::mega::mega: My name is [**TOURE A. KARIM**](https://trabdlkarim.com), I am a ✨***computer engineer***✨ and :sparkles:***tech enthusiast***:sparkles: living in Turkey.
 
 :sweat_drops: Here below :point_down: are some information and links about me to get you started: :sweat_drops:
