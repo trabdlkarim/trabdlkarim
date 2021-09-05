@@ -2,8 +2,6 @@
 
 #  Developer & Tech Enthusiast
 
-![GitHub Profile](https://img.shields.io/badge/github-profile-yellowgreen) ![Give a star](https://img.shields.io/badge/give%20a%20star-if%20useful-blueviolet) ![Forks](https://img.shields.io/github/forks/trabdlkarim/trabdlkarim) ![Stars](https://img.shields.io/github/stars/trabdlkarim/trabdlkarim?color=red&style=plastic)
-
 [<img height="30" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][Twitter]
 [<img height="30" src="https://img.shields.io/badge/Hashnode-%230077B5.svg?&style=for-the-badge&logo=Hashnode&logoColor=white"/>][Hashnode]
 [<img height="30" src = "https://img.shields.io/badge/Mail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"/>][Mail]
