@@ -36,7 +36,7 @@ def main():
     for line in lines:
         roll(line)
     roll('- ' + quote['author'])
-    FRAMES[0].save(str(ROOTDIR / 'assets/gifs/banner.gif'), format='GIF', 
+    FRAMES[0].save(str(ROOTDIR / 'assets/gifs/quote.gif'), format='GIF', 
                    append_images=FRAMES[1:], save_all=True, duration=100, loop=0)
 
 if __name__ == "__main__":
