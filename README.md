@@ -1,4 +1,4 @@
-<p align="left"><img alt="Welcome" src="https://raw.githubusercontent.com/trabdlkarim/trabdlkarim/master/assets/gifs/banner.gif"/></p>
+<p align="left"><img alt="Welcome" src="https://raw.githubusercontent.com/trabdlkarim/trabdlkarim/master/assets/gifs/quote.gif"/></p>
 
 #  Developer & Tech Enthusiast
 
