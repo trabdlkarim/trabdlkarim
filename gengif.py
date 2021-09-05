@@ -4,6 +4,7 @@ from PIL import Image, ImageDraw, ImageFont
 import pathlib
 import random 
 import json
+import textwrap
 
 ROOTDIR = pathlib.Path(__file__).parent.resolve()
 FONT = ImageFont.truetype(str(ROOTDIR / "assets/Hack-Bold.ttf"), 24)
@@ -11,7 +12,7 @@ FONT = ImageFont.truetype(str(ROOTDIR / "assets/Hack-Bold.ttf"), 24)
 FRAMES = []
 
 def get_inspirational_quote():
-    with open(str(ROOTDIR / 'quotes.json')) as fp:
+    with (ROOTDIR / 'quotes.json').open() as fp:
         QUOTES = json.load(fp)
         i = random.randint(0, len(QUOTES)-1)
         return QUOTES[i]
@@ -32,8 +33,7 @@ def main():
     quote = get_inspirational_quote()
     print(quote['text'])
     print(quote['author'])
-    step = 54 
-    lines =  [quote['text'][i:i+ step ] for i in range(0, len(quote['text']), step)]
+    lines =  textwrap.wrap(quote['text'], width=54)
     for line in lines:
         roll(line)
     roll('- ' + quote['author'])
