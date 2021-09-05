@@ -32,7 +32,10 @@ def main():
     quote = get_inspirational_quote()
     print(quote['text'])
     print(quote['author'])
-    roll(quote['text'])
+    step = 72 
+    lines =  [quote['text'][i:i+ step ] for i in range(0, len(quote['text']), step)]
+    for line in lines:
+        roll(line)
     roll('- ' + quote['author'])
     FRAMES[0].save(str(ROOTDIR / 'assets/gifs/banner.gif'), format='GIF', 
                    append_images=FRAMES[1:], save_all=True, duration=100, loop=0)
