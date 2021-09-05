@@ -53,5 +53,5 @@ jobs:
           git config --global user.email "trabdlkarim@programmer.net"
           git config --global user.name "trabdlkarim"
           git add -A
-          git commit -m "update with fresh content" || exit 0
+          git commit -m "update with fresh content via workflow " || exit 0
           git push -u origin master
