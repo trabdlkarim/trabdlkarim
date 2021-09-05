@@ -25,7 +25,7 @@ def create_textual_image(xy, text):
  
 def roll(text):
     for i in range(len(text)+1):
-        new_frame = create_textual_image((10, 30), text[:i])
+        new_frame = create_textual_image((0, 30), text[:i])
         FRAMES.append(new_frame)
 
 
