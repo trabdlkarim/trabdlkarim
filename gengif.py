@@ -8,7 +8,6 @@ import textwrap
 
 ROOTDIR = pathlib.Path(__file__).parent.resolve()
 FONT = ImageFont.truetype(str(ROOTDIR / "assets/Hack-Bold.ttf"), 24)
-
 FRAMES = []
 
 def get_inspirational_quote():
