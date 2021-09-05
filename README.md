@@ -10,6 +10,8 @@
 [<img height="30" src="https://img.shields.io/badge/Linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="30" src="https://img.shields.io/badge/Medium-000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />][Medium]
 [<img height="30" src="https://img.shields.io/badge/Telegram-%231DA1F2.svg?&style=for-the-badge&logo=telegram&logoColor=white" />][Telegram]
+
+More on 👉🏼 <a href="https://www.trabdlkarim.com/" target="_blank">trabdlkarim.com</a>
 <hr/>
 
 :mega::mega::mega: My name is [**TOURE A. KARIM**](https://trabdlkarim.com), I am a ✨***computer engineer***✨ and :sparkles:***tech enthusiast***:sparkles: living in Turkey.
