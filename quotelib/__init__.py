@@ -31,7 +31,7 @@ class Quote:
             frame = self.__create_textual_image(coordinates, text[:i])
             self.frames.append(frame)
             
-    def generate_quote_gif(self, output='assets/gifs/quote.gif'):
+    def generate_gif(self, output='assets/gifs/quote.gif'):
         quote = self.get_random_quote()
         lines =  textwrap.wrap(quote['text'], width=54)
         for line in lines:

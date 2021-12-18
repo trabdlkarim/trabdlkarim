@@ -4,7 +4,7 @@ from quotelib import Quote
 
 def main():
     quote = Quote()
-    quote.generate_quote_gif()
+    quote.generate_gif()
 
 
 if __name__ == "__main__":
