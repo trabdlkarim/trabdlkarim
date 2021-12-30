@@ -1,17 +1,18 @@
 # This is a basic workflow for building the README.md file
 
-name: Profile Autobuild
+name: Daily Quote
 
 # Controls when the workflow will run
 on:
   # Triggers the workflow on push or pull request events but only for the master branch
-  push:
-    branches: [ master ]
-  pull_request:
-    branches: [ master ]
+  # push:
+  #  branches: [ master ]
+  # pull_request:
+  #  branches: [ master ]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
+  
   schedule:
     - cron:  '0 0 * * *'
 
@@ -44,7 +45,7 @@ jobs:
         run: python -m pip install -r requirements.txt
 
       # Runs a set of commands using the runners shell
-      - name: Generate gif asset and update README.md
+      - name: Generate random quote as a gif asset
         run: |
           python gengif.py
 
@@ -54,5 +55,5 @@ jobs:
           git config --global user.email "trabdlkarim@programmer.net"
           git config --global user.name "trabdlkarim"
           git add -A
-          git commit -m "✨update profile with fresh content via workflow actions " || exit 0
+          git commit -m "generate inspirational quote for profile via action bot" || exit 0
           git push -u origin master
