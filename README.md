@@ -1,7 +1,5 @@
 <p align="left"><img alt="Welcome" src="https://raw.githubusercontent.com/trabdlkarim/trabdlkarim/master/assets/gifs/quote.gif"/></p>
 
-#  Developer & Tech Enthusiast
-
 ## Hi <img src="https://raw.githubusercontent.com/trabdlkarim/trabdlkarim/master/assets/gifs/hi.gif" height="25" /> stranger, welcome!
 
 Let's drop the formalities, just call me [Abdoul] Karim. I'm a ✨computer engineer✨ and :sparkles:technology enthusiast:sparkles: from 🇨🇮 **Côte d’Ivoire**, currently living in 🇹🇷 **Turkey**.
