@@ -55,5 +55,5 @@ jobs:
           git config --global user.email "trabdlkarim@programmer.net"
           git config --global user.name "trabdlkarim"
           git add -A
-          git commit -m "generate inspirational quote for profile via action bot" || exit 0
+          git commit -m "generate profile inspirational quote via github-actions bot" || exit 0
           git push -u origin master
