@@ -13,6 +13,6 @@ More on 👉🏼 <a href="https://www.trabdlkarim.com/" target="_blank">trabdlka
 
 [Twitter]: https://twitter.com/trabdlkarim
 [Telegram]: https://t.me/trabdlkarim
-[Mail]: mailto:contact@trabdlkarim.com
+[Mail]: mailto:trabdlkarim@gmail.com
 [Linkedin]: https://www.linkedin.com/in/trabdlkarim/
 
