@@ -4,7 +4,7 @@
 
 Let's drop the formalities, just call me Kareem. I'm a computer engineer and technology enthusiast from **Côte d’Ivoire**, currently living in **Turkey**.
 
-More on 👉🏼 <a href="https://www.trabdlkarim.com/" target="_blank">trabdlkarim.com</a>
+More on 👉🏼 <a href="https://www.trabdlkarim.me/" target="_blank">trabdlkarim.me</a>
 
 Want to get in touch? Join me on:
 
