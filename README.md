@@ -8,12 +8,11 @@ More on 👉🏼 <a href="https://www.trabdlkarim.me/" target="_blank">trabdlkar
 
 Want to get in touch? Join me on:
 
-[<img height="30" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][Twitter]
 [<img height="30" src = "https://img.shields.io/badge/Mail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"/>][Mail]
-[<img height="30" src="https://img.shields.io/badge/Linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 [<img height="30" src="https://img.shields.io/badge/Telegram-%231DA1F2.svg?&style=for-the-badge&logo=telegram&logoColor=white" />][Telegram]
+[<img height="30" src="https://img.shields.io/badge/Linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 
-[Twitter]: https://twitter.com/trabdlkarim
+
 [Telegram]: https://t.me/trabdlkarim
 [Mail]: mailto:mail@trabdlkarim.me
 [Linkedin]: https://www.linkedin.com/in/trabdlkarim/
