@@ -1,6 +1,6 @@
 <p align="left"><img alt="Welcome" src="https://raw.githubusercontent.com/trabdlkarim/trabdlkarim/master/assets/gifs/quote.gif"/></p>
 
-## Hey <img src="https://raw.githubusercontent.com/trabdlkarim/trabdlkarim/master/assets/gifs/hi.gif" height="25" /> stranger, welcome!
+## Hey there <img src="https://raw.githubusercontent.com/trabdlkarim/trabdlkarim/master/assets/gifs/hi.gif" height="25" />, welcome
 
 Let's drop the formalities, just call me Karim. I'm a software engineer and tech enthusiast from **Côte d’Ivoire** 🇨🇮, currently living in **Turkey**.
 
