@@ -15,6 +15,6 @@ Want to get in touch? Join me on:
 
 [Twitter]: https://twitter.com/trabdlkarim
 [Telegram]: https://t.me/trabdlkarim
-[Mail]: mailto:trabdlkarim@gmail.com
+[Mail]: mailto:mail@trabdlkarim.me
 [Linkedin]: https://www.linkedin.com/in/trabdlkarim/
 
