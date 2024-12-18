@@ -2,9 +2,9 @@
 
 ## Hey <img src="https://raw.githubusercontent.com/trabdlkarim/trabdlkarim/master/assets/gifs/hi.gif" height="25" /> stranger, welcome!
 
-Let's drop the formalities, just call me Kareem. I'm a computer engineer and technology enthusiast from **Côte d’Ivoire**, currently living in **Turkey**.
+Let's drop the formalities, just call me Karim. I'm a software engineer and tech enthusiast from **Côte d’Ivoire** 🇨🇮, currently living in **Turkey**.
 
-More on 👉🏼 <a href="https://www.trabdlkarim.me/" target="_blank">trabdlkarim.me</a>
+More on 👉🏼 <a href="https://trabdlkarim.me/" target="_blank">trabdlkarim.me</a>
 
 Want to get in touch? Join me on:
 
