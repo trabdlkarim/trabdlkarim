@@ -13,7 +13,7 @@ Want to get in touch? Join me on:
 [<img height="30" src="https://img.shields.io/badge/Linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 
 
-[Telegram]: https://t.me/trabdlkarim
+[Telegram]: https://t.me/habdoolkhareem
 [Mail]: mailto:mail@trabdlkarim.me
 [Linkedin]: https://www.linkedin.com/in/trabdlkarim/
 
