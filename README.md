@@ -23,8 +23,6 @@ More on 👉🏼 <a href="https://trabdlkarim.me/" target="_blank">trabdlkarim.m
 [<img height="30" src="https://img.shields.io/badge/Telegram-%231DA1F2.svg?&style=for-the-badge&logo=telegram&logoColor=white" />][Telegram]
 [<img height="30" src="https://img.shields.io/badge/Linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 
-
-[Telegram]: https://t.me/habdoolkhareem
+[Telegram]: https://t.me/habdoolkh
 [Mail]: mailto:mail@trabdlkarim.me
 [Linkedin]: https://www.linkedin.com/in/trabdlkarim/
-
